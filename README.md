@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Abdeljalil SALMI<br> I'm an  Engineering Student in Management & Information Systems at ENSA Khouribga<br>💡 Passionate about Web Development, Information Systems & Digital Solutions and building efficient and scalable digital solutions that bridge the gap between business needs and technology.<br>🛠️ Currently working with  Java, Spring Boot , Python & Laravel<br>🚀 Building real-world projects to solve practical problems<br>📊 Interested in IT Project Management, Systems Design & Business Tech<br>📍 Morocco<br>📫 Open to internships (PFA – July & August)
+Hi there, I'm Abdeljalil SALMI<br> I'm an  Engineering Student in Management & Information Systems at ENSA Khouribga<br>💡 Passionate about Web Development, Information Systems & Digital Solutions and building efficient and scalable digital solutions that bridge the gap between business needs and technology.<br>🛠️ Currently working with  Java, Spring Boot , Python & Laravel<br>🚀 Building real-world projects to solve practical problems<br>📊 Interested in IT Project Management, Systems Design & Business Tech<br>📍 Morocco<br>📫 Open to internships (PFE – 4 to 6 months)
 
 
 ## 🌐 Socials:
