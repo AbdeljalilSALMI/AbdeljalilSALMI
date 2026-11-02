@@ -14,12 +14,12 @@
 
 ## About me
 
-I am an engineering student in Management & Information Systems at **ENSA Khouribga**. I am passionate about web development, information systems and digital solutions that bridge the gap between business needs and technology.
+I am an engineering student in Management Information Systems at **ENSA Khouribga**. I am passionate about web development, information systems and digital solutions that bridge the gap between business needs and technology.
 
 - Currently working with Java, Spring Boot, Python and Laravel
 - Building real-world projects that solve practical problems
 - Interested in IT project management, systems design and business technology
-- Based in Morocco, open to a **PFE internship (4 to 6 months)**
+- Based in Morocco
 
 ---
 
