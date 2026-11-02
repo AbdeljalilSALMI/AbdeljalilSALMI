@@ -47,6 +47,12 @@ I am an engineering student in Management & Information Systems at **ENSA Khouri
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=javafx&logoColor=white)
 
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 **Data and databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -63,25 +69,20 @@ I am an engineering student in Management & Information Systems at **ENSA Khouri
 
 ---
 
+## DevOps practices
+
+- Containerising Spring Boot applications with Docker and Docker Compose
+- Building CI pipelines with Jenkins (declarative Jenkinsfile)
+- Deploying and orchestrating containers with Kubernetes
+
+---
+
 ## GitHub stats
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdeljalilsalmi&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
-    </td>
-    <td align="center">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeljalilsalmi&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=abdeljalilsalmi&theme=dark&hide_border=true" alt="Streak" />
-    </td>
-  </tr>
-</table>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdeljalilsalmi&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeljalilsalmi&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
 
 </div>
 
@@ -90,7 +91,5 @@ I am an engineering student in Management & Information Systems at **ENSA Khouri
 <div align="center">
 
 Thanks for visiting
-
-[![Visitors](https://visitcount.itsvg.in/api?id=abdeljalilsalmi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
